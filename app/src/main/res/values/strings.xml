@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">EspTouch</string>
-    <string name="menu_item_about">About App</string>
+    <string name="app_name">IOT Provisioner</string>
+    <string name="menu_item_about">About IOT Provisioner</string>
     <string name="about_app_version">App Version: %s</string>
 
     <string name="main_title">Home</string>
 
-    <string name="esptouch_message_permission">APP require Location permission to get Wi-Fi information. \nClick to request permission</string>
+    <string name="esptouch_message_permission">App require Location permission to get Wi-Fi information. \nClick to request permission</string>
     <string name="esptouch_message_location">Please turn on GPS to get Wi-Fi information.</string>
     <string name="esptouch_message_wifi_connection">Please connect Wi-Fi first.</string>
     <string name="esptouch_message_wifi_frequency">Current Wi-Fi connection is 5G, but the device just support 2.4G.</string>
 
-    <string name="esptouch1_title">EspTouch</string>
+    <string name="esptouch1_title">IOT Provisioning (V1)</string>
     <string name="esptouch1_about_version">EspTouch Version: %s</string>
     <string name="esptouch1_ssid_title">SSID: </string>
     <string name="esptouch1_bssid_title">BSSID: </string>
@@ -27,11 +27,11 @@
     <string name="esptouch1_configure_wifi_change_message">Wi-Fi disconnected or changed</string>
     <string name="esptouch1_configure_result_failed">EspTouch failed</string>
     <string name="esptouch1_configure_result_failed_port">Create EspTouch task failed, the EspTouch port could be used by other thread</string>
-    <string name="esptouch1_configure_result_success">EspTouch 完成</string>
+    <string name="esptouch1_configure_result_success">EspTouch Successful</string>
     <string name="esptouch1_configure_result_success_item">BSSID = %1$s, InetAddress = %2$s</string>
 
-    <string name="esptouch2_title">EspTouch V2</string>
-    <string name="esptouch2_about_version">EspTouch V2 Version: %s</string>
+    <string name="esptouch2_title">IOT Provisioning (V2)</string>
+    <string name="esptouch2_about_version"> ETouch V2 Version: %s</string>
     <string name="esptouch2_ssid_label">SSID: </string>
     <string name="esptouch2_bssid_label">BSSID: </string>
     <string name="esptouch2_ip_label">IP: </string>
